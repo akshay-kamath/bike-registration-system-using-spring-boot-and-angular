@@ -1,0 +1,1 @@
+This repository contains a full stack application developed using Spring Boot for backend and Angular JS for frontend.For data persistence Spring Data JPA has been used.Communication with the client is done through REST APIs.The application has been built considering the 12 factor app methodologies.
