@@ -31,13 +31,13 @@ The **Bike Registration System** is a full-stack web application that enables us
    ```bash
    git clone https://github.com/akshay-kamath/bike-registration-system-using-spring-boot-and-angular.git
    cd bike-registration-system-using-spring-boot-and-angular/backend
-  ```
+   ```
 
 2. Install dependencies and run the backend:
    ```bash
    ./mvnw install
    ./mvnw spring-boot:run
-  ```
+   ```
 
 3.Configure MySQL
 
@@ -47,18 +47,18 @@ The **Bike Registration System** is a full-stack web application that enables us
    spring.datasource.url=jdbc:mysql://localhost:3306/bike_registration_system
    spring.datasource.username=your_username
    spring.datasource.password=your_password
-  ```
+   ```
 
 ### Frontend (Angular)
 
 1. Navigate to the frontend folder:
    ```bash
    cd ../frontend
-  ```
+   ```
 
 2. Install dependencies and run the Angular app:
    ```bash
   npm install
   ng serve
-  ```
+   ```
   
