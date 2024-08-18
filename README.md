@@ -29,7 +29,7 @@ The **Bike Registration System** is a full-stack web application that enables us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akshay-kamath/bike-registration-system-using-spring-boot-and-angular.git
+   git clone https://github.com/<your-repo-name>/bike-registration-system-using-spring-boot-and-angular.git
    cd bike-registration-system-using-spring-boot-and-angular/backend
    ```
 
