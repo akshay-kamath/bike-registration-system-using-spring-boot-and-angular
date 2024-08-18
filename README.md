@@ -76,12 +76,7 @@ The **Bike Registration System** is a full-stack web application that enables us
 3. **Register bikes, manage bike details**, and **update your profile**.
 4. **Admin features** allow for higher-level access based on roles.
 
-## API Endpoints
 
-- **POST /api/register** - Register a new user.
-- **POST /api/login** - Authenticate user credentials.
-- **GET /api/bikes** - Retrieve a list of registered bikes.
-- **POST /api/bikes** - Register a new bike.
 
 ## Contributing
 
