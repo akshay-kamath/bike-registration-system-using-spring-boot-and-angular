@@ -51,14 +51,43 @@ The **Bike Registration System** is a full-stack web application that enables us
 
 ### Frontend (Angular)
 
-1. Navigate to the frontend folder:
+1. **Navigate to the frontend folder:**
    ```bash
    cd ../frontend
    ```
 
-2. Install dependencies and run the Angular app:
-   ```bash
-  npm install
-  ng serve
-   ```
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+3. **Run the Angular app:**
+    ```bash
+    ng serve
+    ```
+
+4. **Open the application:**
+    The Angular app will run at [http://localhost:4200](http://localhost:4200).
   
+## Usage
+
+1. **Register an account** to start using the application.
+2. **Login** with your credentials.
+3. **Register bikes, manage bike details**, and **update your profile**.
+4. **Admin features** allow for higher-level access based on roles.
+
+## API Endpoints
+
+- **POST /api/register** - Register a new user.
+- **POST /api/login** - Authenticate user credentials.
+- **GET /api/bikes** - Retrieve a list of registered bikes.
+- **POST /api/bikes** - Register a new bike.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License.
+
